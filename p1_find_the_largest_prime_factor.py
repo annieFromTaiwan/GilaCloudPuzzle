@@ -1,8 +1,5 @@
 import math
 
-
-test = []
-
 def find_max_prime(N):
 	composite_nums = set([])
 	primes_of_N = set([])
