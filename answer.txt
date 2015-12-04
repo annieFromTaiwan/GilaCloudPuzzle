@@ -1,0 +1,14 @@
+
+> p1_find_the_largest_prime_factor.py
+6857
+
+> p2_sum_of_multiple_3_5.py
+233168
+
+> p3_combination.py
+847660528
+48203100894442103934748925233710467221987306962280314689084340
+
+> p4_integration.py
+358.651
+
